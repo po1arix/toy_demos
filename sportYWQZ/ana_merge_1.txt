@@ -1,0 +1,10 @@
+merger_1/ank_1.txt	1061
+merger_1/ear_1.txt	789
+merger_1/elb_1.txt	649
+merger_1/eye_1.txt	1054
+merger_1/hip_1.txt	285
+merger_1/knee_1.txt	343
+merger_1/neck_1.txt	792
+merger_1/nose_1.txt	948
+merger_1/sho_1.txt	564
+merger_1/wri_1.txt	655

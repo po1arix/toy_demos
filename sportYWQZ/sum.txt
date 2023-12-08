@@ -1,0 +1,48 @@
+-------------------------------------------------- 
+
+ana_1.txt 	 loss_rate: 
+
+r_hip.txt 		 loss_rate: 	 24.8453117563 %
+l_hip.txt 		 loss_rate: 	 29.1765825797 %
+l_sho.txt 		 loss_rate: 	 33.1270823417 %
+r_knee.txt 		 loss_rate: 	 37.0775821038 %
+r_knee.txt 		 loss_rate: 	 37.0775821038 %
+l_wri.txt 		 loss_rate: 	 37.3631603998 %
+neck.txt 		 loss_rate: 	 37.6963350785 %
+r_sho.txt 		 loss_rate: 	 40.123750595 %
+nose.txt 		 loss_rate: 	 45.1213707758 %
+l_eye.txt 		 loss_rate: 	 54.7834364588 %
+l_ear.txt 		 loss_rate: 	 55.0214183722 %
+r_elb.txt 		 loss_rate: 	 55.5925749643 %
+r_wri.txt 		 loss_rate: 	 56.5920990005 %
+l_knee.txt 		 loss_rate: 	 60.4950023798 %
+r_eye.txt 		 loss_rate: 	 63.9219419324 %
+r_ear.txt 		 loss_rate: 	 65.9685863874 %
+l_ank.txt 		 loss_rate: 	 67.4440742504 %
+r_ank.txt 		 loss_rate: 	 76.9633507853 %
+-------------------------------------------------- 
+
+ana_merge_1.txt 	 loss_rate: 
+
+hip_1.txt 		 loss_rate: 	 13.5649690624 %
+knee_1.txt 		 loss_rate: 	 16.3255592575 %
+sho_1.txt 		 loss_rate: 	 26.8443598287 %
+elb_1.txt 		 loss_rate: 	 30.890052356 %
+wri_1.txt 		 loss_rate: 	 31.1756306521 %
+ear_1.txt 		 loss_rate: 	 37.5535459305 %
+neck_1.txt 		 loss_rate: 	 37.6963350785 %
+nose_1.txt 		 loss_rate: 	 45.1213707758 %
+eye_1.txt 		 loss_rate: 	 50.1665873394 %
+ank_1.txt 		 loss_rate: 	 50.4997620181 %
+-------------------------------------------------- 
+
+ana_merge_2.txt 	 loss_rate: 
+
+snec_2.txt 		 loss_rate: 	 24.7977153736 %
+ave_2.txt 		 loss_rate: 	 26.4159923846 %
+elb_2.txt 		 loss_rate: 	 30.890052356 %
+-------------------------------------------------- 
+
+ana_merge_3.txt 	 loss_rate: 
+
+head_3.txt 		 loss_rate: 	 24.7025226083 %

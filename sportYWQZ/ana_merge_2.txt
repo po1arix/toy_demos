@@ -1,0 +1,3 @@
+merger_2/ave_2.txt	555
+merger_2/elb_2.txt	649
+merger_2/snec_2.txt	521
