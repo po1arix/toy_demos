@@ -37,7 +37,7 @@ class Weather:
                 ddwt.append(temporary)
                 temporary = [i]
             cnt += 1
-        print(ddwt)
+        # print(ddwt)
         return ddwt
     def out(self, c, place, d_dwt):
         print(f'以下是{place}未来{c}天内的天气预报（包括今天）')

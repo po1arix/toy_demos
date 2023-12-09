@@ -58,7 +58,7 @@ class Weather:
             # ddwt.append([date, day, weather, temperature])
             
             # break        
-        print(ddwt)
+        # print(ddwt)
         return ddwt
     
     # def data_process(self, data):
