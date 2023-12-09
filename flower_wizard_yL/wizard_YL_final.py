@@ -28,7 +28,7 @@ while True:
                 for y in range(wh):
                     if y>d:
                         pf = plantframe[y-d,x].tolist()
-                        if pf[0] in range(300) and pf[1] in range(60) and pf[2] in range(70):       #300 60 70
+                        if pf[0] in range(256) and pf[1] in range(60) and pf[2] in range(70):       #256 60 70
                             continue
                         wizardframe[y,x] = plantframe[y-d,x]
         count_2 += 1

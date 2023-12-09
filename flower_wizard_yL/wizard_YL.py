@@ -67,7 +67,7 @@ while True:
                     if y>d:
                         # if str(plantframe[y-d,x].tolist()) in real_back:  搭配line 14/26
                         pf = plantframe[y-d,x].tolist()
-                        if pf[0] in range(300) and pf[1] in range(60) and pf[2] in range(70):       #300 60 70
+                        if pf[0] in range(256) and pf[1] in range(60) and pf[2] in range(70):       #256 60 70
                             continue
                         wizardframe[y,x] = plantframe[y-d,x]
         count_2 += 1
